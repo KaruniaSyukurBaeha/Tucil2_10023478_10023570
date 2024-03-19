@@ -34,7 +34,7 @@ Upon successful execution, a splash screen will appear!
 
 
 ## Programming Language
-*Python
+* [Python]
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
