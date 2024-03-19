@@ -1,5 +1,5 @@
 Tucil2_10023478_10023570
-# Building Bézier Curves with the Midpoint Algorithm based on Divide and Conquer
+# Bézier Curve: Implementation of Divide and Conquer and Brute Force Algorithms
 Members:
 1. Karunia Syukur Baeha (10023478)
 2. Rafi Ahmad Fahreza (10023570)
