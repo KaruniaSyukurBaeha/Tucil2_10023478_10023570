@@ -9,7 +9,6 @@ Table of Contents
 * [How To Run](#how-to-run)
 * [Programming Language](#Programming-Language)
 * [Screenshots](#screenshots)
-* [Acknowledgements](#acknowledgements)
 <!-- * [License](#license) -->
 
 
@@ -39,12 +38,6 @@ Upon successful execution, a splash screen will appear!
 ## Screenshots
 ![Screenshot](https://github.com/KaruniaSyukurBaeha/Tucil2_10023478_10023570/blob/main/tucil%202/screenshot/Screenshot%202024-03-19%20111503.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
 
 
 
