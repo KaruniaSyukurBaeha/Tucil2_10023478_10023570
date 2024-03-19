@@ -6,7 +6,7 @@ Members:
 
 Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [How To Run](#how-to-run)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
@@ -25,11 +25,20 @@ Table of Contents
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## How To Run
+1. Clone this repository :
+```shell
+git clone https://github.com/KaruniaSyukurBaeha/Tucil2_10023478_10023570.git
+```
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+2. Navigate to the `src` directory:
+```shell
+cd .\tucil 2\
+cd src
+python burte_force.py
+python divide_and_conquer.py
+```
+Upon successful execution, a splash screen will appear!
 
 
 ## Features
