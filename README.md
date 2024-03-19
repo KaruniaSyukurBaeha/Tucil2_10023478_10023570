@@ -37,7 +37,7 @@ Upon successful execution, a splash screen will appear!
 * Python
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./sreenshot/Screenshot 2024-03-19 111503.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Acknowledgements
