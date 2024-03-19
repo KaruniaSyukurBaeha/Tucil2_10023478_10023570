@@ -37,7 +37,7 @@ Upon successful execution, a splash screen will appear!
 * Python
 
 ## Screenshots
-![Example screenshot](./sreenshot/Screenshot 2024-03-19 111503.png)
+![Screenshot](https://github.com/KaruniaSyukurBaeha/Tucil2_10023478_10023570/blob/main/tucil%202/screenshot/Screenshot%202024-03-19%20111503.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Acknowledgements
